@@ -1,0 +1,9 @@
+.App {
+  padding: 5px;
+  display: flex;
+  min-height: 700px;
+}
+
+.wrapper {
+  margin: 10px 0 0 50px;
+}
